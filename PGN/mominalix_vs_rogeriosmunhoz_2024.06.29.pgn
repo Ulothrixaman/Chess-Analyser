@@ -1,0 +1,18 @@
+[Event "Casual blitz game"]
+[Site "https://lichess.org/usY8X8q5"]
+[Date "2024.07.26"]
+[White "Anonymous"]
+[Black "Anonymous"]
+[Result "1-0"]
+[UTCDate "2024.07.26"]
+[UTCTime "11:29:56"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "A40"]
+[Opening "Englund Gambit: Hartlaub-Charlick Gambit"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 e5 2. dxe5 d6 { A40 Englund Gambit: Hartlaub-Charlick Gambit } 3. Nf3 Bg4 4. Nc3 Bxf3 5. exf3 dxe5 6. Qxd8+ Kxd8 7. Bc4 Bb4 8. Bd2 Bxc3 9. Bxc3 f6 10. O-O-O+ Ke8 11. Rd3 Nc6 12. Rhd1 e4 13. fxe4 Rd8 14. Bb5 Rxd3 15. Bxc6+ bxc6 16. Rxd3 f5 17. exf5 Nf6 18. Ba5 Ne4 19. Bxc7 Nxf2 20. Rd8+ Kf7 21. Rxh8 Nd3+ 22. cxd3 { Black resigns. } 1-0
