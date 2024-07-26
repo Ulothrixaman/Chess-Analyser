@@ -47,6 +47,7 @@ This project is a chess analyzer application built using Python and Tkinter. The
 
 2. **Run the application**:
     ```bash
+
     python main.py
     ```
 
@@ -55,8 +56,8 @@ This project is a chess analyzer application built using Python and Tkinter. The
 - Open the application and load a chess game to start analyzing.
 - Use the interface to navigate through the moves and evaluate positions.
 
-![image](https://github.com/user-attachments/assets/5307dd1d-d95e-498d-8948-e278764a7632)
 
+![Screenshot from 2024-07-26 21-37-05](https://github.com/user-attachments/assets/2daa383c-3981-4424-abcf-02fdab552baa)
 
 ## Contributing
 
